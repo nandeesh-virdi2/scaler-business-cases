@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-yellow?logo=pandas&logoColor=black)](https://pandas.pydata.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-orange?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/username/walmart-analysis?style=social)](https://github.com/username/walmart-analysis)
 
 ---
@@ -52,7 +51,7 @@ Perfect for data enthusiasts, aspiring data scientists, or retail analysts looki
 
 ## 📁 **Dataset**
 
-Sourced from a public Kaggle dataset simulating Walmart's Black Friday sales (50M male + 50M female customers assumed).
+Sourced from a Scaler neoversity business cases simulating Walmart's Black Friday sales (50M male + 50M female customers assumed).
 
 - **Size**: 550,068 rows × 10 columns
 - **Columns**:
@@ -62,47 +61,11 @@ Sourced from a public Kaggle dataset simulating Walmart's Black Friday sales (50
   - `Product_Category`: Item type (1-20)
   - `Purchase`: Transaction amount (target variable)
 
-Download via:
-```bash
-!gdown 15M27gosWyUG1I_2wA-czk2bsflbpYbyv  # walmart_data.csv
-```
 
 No nulls detected; minor outliers in `Purchase` retained for realism.
 
 ---
 
-## 🏗 **Getting Started**
-
-### Prerequisites
-- Python 3.8+
-- Jupyter Notebook or Google Colab
-
-### Installation
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/username/walmart-analysis.git
-   cd walmart-analysis
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   (Includes: pandas, numpy, matplotlib, seaborn, scipy, statsmodels)
-
-3. Download the dataset (or use the provided script in `data/`).
-
-### Running the Analysis
-1. Launch Jupyter:
-   ```bash
-   jupyter notebook Walmart_Analysis.ipynb
-   ```
-
-2. Execute cells sequentially for EDA, stats, and visualizations.
-
-Expected runtime: ~5-10 minutes on standard hardware.
-
----
 
 ## 📈 **Analysis Workflow**
 
@@ -127,10 +90,6 @@ Expected runtime: ~5-10 minutes on standard hardware.
    - Target males with high-value upsells; females with category bundles.
    - Age-stratified: Budget for teens, premium for seniors.
 
-Sample Plot: Age-Product Heatmap
-![Age-Product Heatmap](assets/age_product_heatmap.png) <!-- Add actual image path -->
-
----
 
 ## 📝 **Key Findings Summary**
 
@@ -139,36 +98,11 @@ Sample Plot: Age-Product Heatmap
 - **Marital Neutrality**: No direct impact; use in combo with age.
 - **Product Trends**: Cat. 5 (youth fave), Cat. 8 (senior pick).
 
-Full report in `report/` folder or Jupyter output.
-
----
-
-## 🤝 **Contributing**
-
-Love retail analytics? Fork the repo, add features (e.g., ML predictions), or fix bugs!
-
-1. Fork & clone.
-2. Create a branch: `git checkout -b feature/amazing-feature`.
-3. Commit: `git commit -m "Add amazing feature"`.
-4. Push & PR!
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
----
-
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👨‍💻 **Author & Connect**
 
-Built with ❤️ by [Your Name] (@yourusername on GitHub/Twitter).
-
-- 📧 Email: your.email@example.com
-- 🔗 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: nandeesh.virdi2@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/nandeesh-virdi-930331159
 
 Star ⭐ this repo if it sparks ideas—let's connect on data adventures!
 
