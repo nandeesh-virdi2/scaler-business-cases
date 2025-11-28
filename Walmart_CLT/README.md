@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.5%2B-yellow?logo=pandas&logoColor=black)](https://pandas.pydata.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-orange?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Stars](https://img.shields.io/github/stars/username/walmart-analysis?style=social)](https://github.com/username/walmart-analysis)
+[![Stars](https://img.shields.io/github/stars/username/walmart-analysis?style=social)](https://github.com/nandeesh-virdi2/scaler-business-cases/tree/main/Walmart_CLT)
 
 ---
 
