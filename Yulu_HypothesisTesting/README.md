@@ -120,8 +120,8 @@ Demand dips reflect **season-driven behavioural change**, particularly during mo
 
 Nandeesh Virdi
 
-📧 Email: nandeesh.virdi2@gmail.com
+Email: nandeesh.virdi2@gmail.com
 
-🔗 LinkedIn: www.linkedin.com/in/nandeesh-virdi-930331159
+LinkedIn: www.linkedin.com/in/nandeesh-virdi-930331159
 ---
 
